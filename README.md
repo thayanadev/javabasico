@@ -1,2 +1,2 @@
-# javabasico
-Java Básico
+# diojavabasico
+dio-java-basico
